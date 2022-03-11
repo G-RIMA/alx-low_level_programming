@@ -5,7 +5,7 @@
  *
  * Return: Always 0.
  */
-/* printing the alphabet */
+
 int main(void)
 {
 	char c;
