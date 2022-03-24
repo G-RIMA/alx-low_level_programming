@@ -8,6 +8,6 @@
  */
 
 int _putchar(char c);
-char *strcat(char *dest, const char *src);
+char *_strcat(char *dest, char *src);
 
 #endif
